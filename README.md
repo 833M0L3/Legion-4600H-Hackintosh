@@ -53,6 +53,7 @@ _Information available only for possible references. I do not recommend followin
 | Keyboard | ✅ | Voodoops2controller Kext + Karabiner-Elements app for mapping |
 | Audio | ✅ | AppleALC kext working with layout-id 11 |
 | Trackpad | ✅ | VoodooI2C |
+| Webcam | ✅ | Working |
 | Ethernet | ✅ | RealtekRTL8111 Kext |
 | Intel WIFI | ✅ | AirportItlwm Kext |
 | Bluetooth | ✅ | Internal Intel combo card with IntelBluetoothFirmware.kext + BlueToolFixup Kext |
@@ -65,7 +66,7 @@ _Information available only for possible references. I do not recommend followin
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| Sleep | ❓ | DGPU's powerplay / TSC issues |
+| Sleep | ❓ | Works mostly but can cause kernel panic on the Nvme. I have disabled NVme since I use SATA for the macOS. Working great |
 | Hardware Acceleration | ❓ | Apps requiring hardware acceleration crashes, more info [here](https://github.com/NootInc/NootedRed/issues/13) |
 | Internal Mic | ❓ | Known AMD Issue, works with external ones |
 
@@ -119,14 +120,11 @@ Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 
 *   [NootedRed](https://github.com/NootInc/NootedRed) It wouldn't have been possible without this project
 *   [kalkmann's](https://github.com/kalkmann/Legion-5600H-Hackintosh) github repo for a boilerplate README
-*   [AMD-OSX](https://forum.amd-osx.com/) Forum and the [dedicated Thread](https://forum.amd-osx.com/threads/amd-rayon-r7-5800h-install-monterey-kernel-panic.2725) users.
-*   ExtremeXT for help, corrections, my [first EFI](https://github.com/ExtremeXT/Lenovo_Legion_5_Hackintosh) reference, the original concept of disable one USB Controller AND README informations.
+*   [AMD-OSX](https://forum.amd-osx.com/) Forum and the [dedicated Thread](https://elitemacx86.com/threads/how-to-enable-amd-integrated-graphics-apu-on-macos-clover-opencore.1156/) users.
 *   Facebook Hackintosh group members for mentioning NootedRed.
-*   zxc2689963 for EFI references.
+*   kalkmann for EFI and the most kext references.
 *   [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for the guides.
-*   [DavidS95](https://github.com/DavidS95) for [UMAF](https://github.com/DavidS95/Smokeless_UMAF).
 *   [Apple](https://www.apple.com/) for macOS.
-*   [Acidanthera](https://github.com/acidanthera) for OpenCore and most Kexts.
 *   Anyone else that helped to develop and improve hackintoshing.
 
 ## Screenshots
