@@ -2,7 +2,8 @@
 
 Lenovo Legion 5-15ARH05 Opencore EFI and some info for running macOS Ventura. **Working in BIOS Version: EUCN39WW**
 
-![print-usb-bluetooh](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/2a8346c7-6664-4be7-8120-8e0221bfc06b)
+![info](https://github.com/833M0L3/Legion-4600H-Hackintosh/assets/59522309/78913342-60b1-4b68-9aef-aad1b7f9b8ea)
+
 
 
 ## Considerations
@@ -130,6 +131,9 @@ Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 
 ## Screenshots
 
-![screen2](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/0340a459-ccde-4dab-ae11-848c5fc8acb7)
+![Screenshot2](https://github.com/833M0L3/Legion-4600H-Hackintosh/assets/59522309/09999f1c-6404-457a-bbdb-aeca1002d394)
 
-![screen1](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/3b6a0492-2835-4231-bf29-ccf1c918bde5)
+![Screenshot3](https://github.com/833M0L3/Legion-4600H-Hackintosh/assets/59522309/452f0a5d-7ecd-4953-b55c-cd77400e6396)
+
+
+
