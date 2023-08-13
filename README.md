@@ -133,5 +133,6 @@ Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 
 ![Screenshot3](https://github.com/833M0L3/Legion-4600H-Hackintosh/assets/59522309/452f0a5d-7ecd-4953-b55c-cd77400e6396)
 
+![Screenshot4](https://github.com/833M0L3/Legion-4600H-Hackintosh/assets/59522309/13f912f8-d47d-4057-ac2b-c6fb68a5a2f6)
 
 
