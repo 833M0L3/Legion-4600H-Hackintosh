@@ -67,7 +67,7 @@ _Information available only for possible references. I do not recommend followin
 | Item | Status | Notes |
 | --- | --- | --- |
 | Sleep | ❓ | Works mostly but can cause kernel panic on the Nvme. I have disabled NVme since I use SATA for the macOS. Working great |
-| Hardware Acceleration | ❓ | Apps requiring hardware acceleration crashes, more info [here](https://github.com/NootInc/NootedRed/issues/13) |
+| Hardware Acceleration | ❓ | Apps requiring hardware acceleration crashes, more info [here](https://github.com/NootInc/NootedRed/issues/13). This can be prevented by disabling hardware acceleration on those apps. |
 | Internal Mic | ❓ | Known AMD Issue, works with external ones |
 
 ## Bios Options
